@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>CAS FEE TO-DO</title>
+    <link rel="stylesheet" href="styles/styles.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.7.3/handlebars.min.js"
+            integrity="sha256-/PJBs6QWvXijOFIX04kZpLb6ZtSQckdOIavLWKKOgXU=" crossorigin="anonymous" defer></script>
+</head>
+<body>
+<header>
+    <h1>CAS FEE Projekt 1 | Belleri</h1>
+</header>
+<main>
+    <div id="main" class="container">
+        <div id="content" class="row">
+            <div class="col-12">
+                <div class="row">
+                    <!--To-Do Table-->
+                    <div id="todo-table" class="lg-8 md-6 sm-12 col">
+                        <table>
+                        </table>
+                    </div>
+
+
+                    <div id="sidebar" class="lg-4 md-6 sm-12 col">
+
+                        <!--To-Do Form-->
+                        <form id="add-todo-form">
+
+                            <!--Field Title-->
+                            <label for="title">Title:</label>
+                            <input type="text" id="title" name="title" required>
+
+                            <!--Field importance-->
+                            <label for="importance">Importance:</label>
+                            <select id="importance" name="importance" required>
+                                <option value="low">low</option>
+                                <option value="medium">medium</option>
+                                <option value="high">high</option>
+                            </select>
+
+                            <!--Field Date-->
+                            <label for="dueDate">Fälligkeitsdatum:</label>
+                            <input type="date" id="dueDate" name="dueDate" required>
+
+                            <!--Field Description-->
+                            <label for="description">Description:</label>
+                            <textarea id="description" name="description" required></textarea>
+
+                            <button type="submit">Add ToDo</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>
+
+</body>
+</html>
