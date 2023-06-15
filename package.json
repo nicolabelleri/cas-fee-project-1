@@ -9,7 +9,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "stylelint": "stylelint \"**/*.css\"",
     "w3c": "html-validator --file ./source/public/index.html  --verbose",
-    "eslint": "eslint \"**/*.js\"",	
+    "eslint": "eslint \"**/*.js\"",
     "all": "npm run stylelint && npm run w3c  && npm run eslint  && node -e \"console.log('npm run all completed')\""
   },
   "author": "Michael Gfeller",
@@ -19,12 +19,17 @@
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-import": "^2.26.0",
-    "html-validator-cli": "^7.0.1",
+    "html-validator-cli": "^2.0.0",
     "prettier": "2.6.2",
     "stylelint": "^14.7.1",
     "stylelint-config-standard": "^25.0.0"
   },
   "dependencies": {
-    "express": "^4.18.0"
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.1.4",
+    "express": "^4.18.0",
+    "express-handlebars": "^7.0.7",
+    "moment": "^2.29.4",
+    "nedb-promises": "^6.2.1"
   }
 }

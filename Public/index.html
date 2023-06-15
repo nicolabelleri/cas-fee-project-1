@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>CAS FEE TO-DO</title>
+    <link rel="stylesheet" href="styles/styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.12/handlebars.min.js"
+            integrity="sha256-qlku5J3WO/ehJpgXYoJWC2px3+bZquKChi4oIWrAKoI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.4/moment.min.js"></script>
+    <script src="js/controllers/note-controller.js" type="module" defer></script>
+</head>
+<script id=note-template type="text/x-handlebars-template">
+    {{#each notes}}
+        <div class="note-teaser" data-note-id="{{this._id}}">
+            <div class="note-title">
+                <h2>{{this.title}}</h2>
+            </div>
+            <div class="note-importance">
+                <p>{{this.importance}}</p>
+            </div>
+            <div class="note-due-date">
+                <p>{{this.dueDate}}</p>
+            </div>
+            <div class="note-description">
+                <p>{{this.description}}</p>
+            </div>
+            <div class="note-done">
+                <input type="checkbox" id="done-checkbox" name="done-checkbox" value="done"
+                       {{#if this.done}}checked{{/if}}>
+            </div>
+            <div class="note-delete">
+                <button class="delete-button" type="button" id="delete-button" name="delete-button">Delete</button>
+            </div>
+            <div class="note-edit">
+                <button type="button" id="edit-button" name="edit-button">Edit</button>
+            </div>
+        </div>
+    {{/each}}
+
+</script>
+<body class="light-theme">
+<div class="wrapper">
+    <nav class="nav">
+        <div class="site-logo">
+            <h2>Project 1</h2>
+        </div>
+        <div class="theme-switcher">
+            <label for="theme-switch" class="theme-switcher">
+                <input id="theme-switch" type="checkbox" name="theme-switch">
+                <span class="slider"></span>
+            </label>
+        </div>
+        <ul>
+            <li><a href="">Nav 1</a></li>
+            <li><a href="">Nav 2</a></li>
+            <li><a href="">Nav 3</a></li>
+        </ul>
+    </nav>
+    <article class="content">
+        <div id="note-body"></div>
+        <button id="add-note">Add Note</button>
+        <dialog class="note-form">
+            <form id="add-note-form" method="dialog">
+                <div class="form-element">
+                    <label for="form-title">Title</label>
+                    <input type="text" id="form-title" name="form-title" required>
+                </div>
+                <div class="form-element">
+                    <label for="form-importance">Importance</label>
+                    <select id="form-importance" name="form-importance" required>
+                        <option value="low">low</option>
+                        <option value="medium">medium</option>
+                        <option value="high">high</option>
+                    </select>
+                </div>
+                <div class="form-element">
+                    <label for="form-dueDate">Fälligkeitsdatum</label>
+                    <input type="date" id="form-dueDate" name="form-dueDate" required>
+                </div>
+                <div class="form-element">
+                    <label for="form-description">Description</label>
+                    <textarea id="form-description" name="form-description" required></textarea>
+                </div>
+                <div class="form-element">
+                    <label for="form-done">Done</label>
+                    <input type="checkbox" id="form-done" name="form-done" value="done">
+                </div>
+                <div class="form-element">
+                    <button id="submit-button">Add Note</button>
+                </div>
+            </form>
+        </dialog>
+    </article>
+
+    <footer class="footer">The footer</footer>
+</div>
+
+</body>
+</html>
