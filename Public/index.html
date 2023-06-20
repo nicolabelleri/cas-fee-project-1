@@ -18,29 +18,87 @@
 <script id=note-template type="text/x-handlebars-template">
     {{#each notes}}
         <div class="note-teaser" data-note-id="{{this._id}}">
-            <div class="note-title">
-                <h2>{{this.title}}</h2>
+        <div class="note-card">
+
+            <div class="note-header">
+                <div class="note-header-start">
+                    <div class="note-title">
+                        <h2>{{this.title}}</h2>
+                    </div>
+                    <div class="note-due-date">
+                        <h3>{{this.dueDate}}</h3>
+                    </div>
+                </div>
+                <div class="note-header-end">
+                </div>
+                <div class="note-importance">
+                    {{#if this.importance}}
+                        {{#ifEquals this.importance 3}}
+                        <div class="note-importance-high">
+                        {{/ifEquals}}
+                        {{#ifEquals this.importance 2}}
+                        <div class="note-importance-medium">
+                        {{/ifEquals}}
+                        {{#ifEquals this.importance  1}}
+                        <div class="note-importance-low">
+                        {{/ifEquals}}
+                        <svg width="128px" height="36px" viewBox="0 0 128 36" version="1.1"
+                             xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                            <title>Group</title>
+                            <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                                <g id="Group" fill="#494C4E" fill-rule="nonzero">
+                                    <g id="important" transform="translate(92.000000, 0.000000)">
+                                        <path d="M18,28.0000074 C16.3449369,27.992497 15.0086173,26.646047 15.0135997,24.9909744 C15.01861,23.3359018 16.3630345,21.9975445 18.0181128,22.0000308 C19.6731911,22.0025239 21.0135997,23.3449199 21.0135997,25 C21.0097384,26.6605656 19.660566,28.0036492 18,28.0000074 L18,28.0000074 Z"
+                                              id="Path"></path>
+                                        <path d="M18,4 C25.7319865,4 32,10.2680135 32,18 C32,25.7319865 25.7319865,32 18,32 C10.2680135,32 4,25.7319865 4,18 C4.00870729,10.2716231 10.2716231,4.00870729 18,4 M18,0 C8.0588745,0 0,8.0588745 0,18 C0,27.9411255 8.0588745,36 18,36 C27.9411255,36 36,27.9411255 36,18 C36,8.0588745 27.9411255,0 18,0 Z"
+                                              id="Shape"></path>
+                                        <path d="M20,8 L16,8 C15.3841954,8 14.8027672,8.28386373 14.4238213,8.76926596 C14.0448755,9.2546682 13.9106674,9.88757634 14.06,10.485 L16.06,18.485 C16.2829996,19.3747788 17.0827023,19.9987902 18,19.9987902 C18.9172977,19.9987902 19.7170004,19.3747788 19.94,18.485 L21.94,10.485 C22.0893326,9.88757634 21.9551245,9.2546682 21.5761787,8.76926596 C21.1972328,8.28386373 20.6158046,8 20,8 L20,8 Z"
+                                              id="Path"></path>
+                                    </g>
+                                    <g id="important" transform="translate(46.000000, 0.000000)">
+                                        <path d="M18,28.0000074 C16.3449369,27.992497 15.0086173,26.646047 15.0135997,24.9909744 C15.01861,23.3359018 16.3630345,21.9975445 18.0181128,22.0000308 C19.6731911,22.0025239 21.0135997,23.3449199 21.0135997,25 C21.0097384,26.6605656 19.660566,28.0036492 18,28.0000074 L18,28.0000074 Z"
+                                              id="Path"></path>
+                                        <path d="M18,4 C25.7319865,4 32,10.2680135 32,18 C32,25.7319865 25.7319865,32 18,32 C10.2680135,32 4,25.7319865 4,18 C4.00870729,10.2716231 10.2716231,4.00870729 18,4 M18,0 C8.0588745,0 0,8.0588745 0,18 C0,27.9411255 8.0588745,36 18,36 C27.9411255,36 36,27.9411255 36,18 C36,8.0588745 27.9411255,0 18,0 Z"
+                                              id="Shape"></path>
+                                        <path d="M20,8 L16,8 C15.3841954,8 14.8027672,8.28386373 14.4238213,8.76926596 C14.0448755,9.2546682 13.9106674,9.88757634 14.06,10.485 L16.06,18.485 C16.2829996,19.3747788 17.0827023,19.9987902 18,19.9987902 C18.9172977,19.9987902 19.7170004,19.3747788 19.94,18.485 L21.94,10.485 C22.0893326,9.88757634 21.9551245,9.2546682 21.5761787,8.76926596 C21.1972328,8.28386373 20.6158046,8 20,8 L20,8 Z"
+                                              id="Path"></path>
+                                    </g>
+                                    <g id="important">
+                                        <path d="M18,28.0000074 C16.3449369,27.992497 15.0086173,26.646047 15.0135997,24.9909744 C15.01861,23.3359018 16.3630345,21.9975445 18.0181128,22.0000308 C19.6731911,22.0025239 21.0135997,23.3449199 21.0135997,25 C21.0097384,26.6605656 19.660566,28.0036492 18,28.0000074 L18,28.0000074 Z"
+                                              id="Path"></path>
+                                        <path d="M18,4 C25.7319865,4 32,10.2680135 32,18 C32,25.7319865 25.7319865,32 18,32 C10.2680135,32 4,25.7319865 4,18 C4.00870729,10.2716231 10.2716231,4.00870729 18,4 M18,0 C8.0588745,0 0,8.0588745 0,18 C0,27.9411255 8.0588745,36 18,36 C27.9411255,36 36,27.9411255 36,18 C36,8.0588745 27.9411255,0 18,0 Z"
+                                              id="Shape"></path>
+                                        <path d="M20,8 L16,8 C15.3841954,8 14.8027672,8.28386373 14.4238213,8.76926596 C14.0448755,9.2546682 13.9106674,9.88757634 14.06,10.485 L16.06,18.485 C16.2829996,19.3747788 17.0827023,19.9987902 18,19.9987902 C18.9172977,19.9987902 19.7170004,19.3747788 19.94,18.485 L21.94,10.485 C22.0893326,9.88757634 21.9551245,9.2546682 21.5761787,8.76926596 C21.1972328,8.28386373 20.6158046,8 20,8 L20,8 Z"
+                                              id="Path"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </svg>
+                    </div>
+                    {{/if}}
+                </div>
+                </div>
+                    <div class="note-description">
+                        <p>{{this.description}}</p>
+                    </div>
+                    <div class="note-footer">
+                        <div class="note-done">
+                            <input type="checkbox" id="done-checkbox" name="done-checkbox" value="done"
+                                   {{#if this.done}}checked{{/if}}>
+                        </div>
+                        <div class="note-actions">
+                            <div class="note-delete">
+                                <button class="delete-button" type="button" id="delete-button" name="delete-button">
+                                    Delete
+                                </button>
+                            </div>
+                            <div class="note-edit">
+                                <button type="button" id="edit-button" name="edit-button">Edit</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
-            <div class="note-importance">
-                <p>{{this.importance}}</p>
-            </div>
-            <div class="note-due-date">
-                <p>{{this.dueDate}}</p>
-            </div>
-            <div class="note-description">
-                <p>{{this.description}}</p>
-            </div>
-            <div class="note-done">
-                <input type="checkbox" id="done-checkbox" name="done-checkbox" value="done"
-                       {{#if this.done}}checked{{/if}}>
-            </div>
-            <div class="note-delete">
-                <button class="delete-button" type="button" id="delete-button" name="delete-button">Delete</button>
-            </div>
-            <div class="note-edit">
-                <button type="button" id="edit-button" name="edit-button">Edit</button>
-            </div>
-        </div>
     {{/each}}
 
 </script>
@@ -56,15 +114,23 @@
                 <span class="slider"></span>
             </label>
         </div>
-        <ul>
-            <li><a href="">Nav 1</a></li>
-            <li><a href="">Nav 2</a></li>
-            <li><a href="">Nav 3</a></li>
-        </ul>
     </nav>
     <article class="content">
-        <div id="note-body"></div>
         <button id="add-note">Add Note</button>
+        <div id="sort-container" class="sorting">
+            <h3>Sort by:</h3>
+            <div class="sorting-buttons">
+                <button data-sort="asc" id="sort-importance">Importance</button>
+                <button data-sort="asc" id="sort-date">Due Date</button>
+
+            </div>
+        </div>
+        <div id="filter-container">
+            <h3>filter by:</h3>
+            <button id="filter-done">Done</button>
+        </div>
+
+        <div id="note-body"></div>
         <dialog class="note-form">
             <form id="add-note-form" method="dialog">
                 <div class="form-element">
@@ -74,9 +140,9 @@
                 <div class="form-element">
                     <label for="form-importance">Importance</label>
                     <select id="form-importance" name="form-importance" required>
-                        <option value="low">low</option>
-                        <option value="medium">medium</option>
-                        <option value="high">high</option>
+                        <option value="1">low</option>
+                        <option value="2">medium</option>
+                        <option value="3">high</option>
                     </select>
                 </div>
                 <div class="form-element">

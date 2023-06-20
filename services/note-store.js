@@ -18,12 +18,25 @@ export class NoteStore {
         return this.get(id);
     }
 
-    async get(id){
+    async get(id) {
         return this.db.findOne({_id: id});
     }
 
-    async all() {
-        return this.db.find({state: { $ne: "DELETED" }}).sort({ orderDate: -1 }).exec();
+    async all(sortBy = 'dueDate', order = 'asc', filter = 'all') {
+        const query = {state: {$ne: "DELETED"}};
+
+        if (filter === 'done') {
+            query.done = true;
+        } else if (filter === 'active') {
+            query.done = false;
+        }
+
+
+        const sortQuery = order === 'desc' ? -1 : 1;
+
+        console.log(sortQuery);
+
+        return this.db.find(query).sort({[sortBy]: sortQuery}).exec();
     }
 
     async done(id, value) {
@@ -33,10 +46,9 @@ export class NoteStore {
     // edit note
     async edit(title, description, importance, dueDate, done, id) {
         const note = new Note(title, description, importance, dueDate, done);
-
-        // change values in db
         return this.db.update({_id: id}, {$set: note});
     }
+
 }
 
 export const noteStore = new NoteStore();

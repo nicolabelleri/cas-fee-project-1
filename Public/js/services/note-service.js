@@ -1,31 +1,37 @@
 import HttpService from "./http-service.js";
 
-class NoteService {
-    async createNote(title, description, importance, dueDate, done) {
-        return HttpService.ajax("POST", "/notes/", { title, description, importance, dueDate, done});
+export default class NoteService {
+    constructor() {
+        this.httpService = new HttpService();
+    }
+
+    async createNote(note) {
+        return this.httpService.ajax("POST", "/notes/", { ...note });
     }
 
     async getNote(id) {
-        return HttpService.ajax("GET", `/notes/${id}`, undefined);
+        return this.httpService.ajax("GET", `/notes/${id}`, undefined);
     }
 
     async deleteNote(id) {
-        return HttpService.ajax("DELETE", `/notes/${id}`, undefined);
+        return this.httpService.ajax("DELETE", `/notes/${id}`, undefined);
     }
 
-    async updateNote(title, description, importance, dueDate, done, id) {
-        return HttpService.ajax("PUT", `/notes/${id}`, { title, description, importance, dueDate, done, id });
+    async updateNote(note) {
+        return this.httpService.ajax("PUT", `/notes/${note.id}`, { ...note });
     }
 
     async setDone(id, value) {
-        return HttpService.ajax("PUT", `/notes/${id}/done`, {value});
+        return this.httpService.ajax("PUT", `/notes/${id}/done`, {value});
     }
 
-    async loadData() {
-        return HttpService.ajax("GET", `/notes/`, undefined);
+    async loadData(sortBy, sort, filter) {
+        const params = new URLSearchParams();
+        if(sortBy) params.append('sortBy', sortBy);
+
+        if(sort) params.append('sort', sort);
+        if(filter) params.append('filter', filter);
+        console.log(params.toString());
+        return this.httpService.ajax("GET", `/notes/?${params.toString()}`, undefined);
     }
-
-
 }
-
-export const noteService = new NoteService();

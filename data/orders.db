@@ -1,31 +1,88 @@
+{"_id":"1Ec8Xow7nL0Rf6L3","state":"DELETED"}
+{"title":"tsssssss22223333","description":"test","importance":"low","dueDate":"1994-08-30","done":false,"_id":"1GrPRUTial9yfq4z","state":"DELETED"}
+{"_id":"1jpbIjJAezXTtjtU","state":"DELETED"}
 {"description":"1994-08-29T00:00:00.000Z","importance":"test","dueDate":"test","done":false,"_id":"1wgTkm9H2zqO01S7","state":"DELETED"}
 {"description":"1994-08-29T00:00:00.000Z","importance":"test","dueDate":"test","done":false,"_id":"3vv34E4X5fWmEx3f","state":"DELETED"}
+{"_id":"5G8JHExe8IpJZlrV","state":"DELETED"}
 {"description":"sdsdsd","importance":"1994-08-29T00:00:00.000Z","dueDate":null,"done":false,"_id":"5U0GxOgIFgWXA06z","state":"DELETED"}
+{"_id":"6FGo807166bHjiHf","state":"DELETED"}
+{"title":"test","description":"test","importance":2,"dueDate":"1994-08-29","done":false,"_id":"6FOXqAvFSZTDx57Q"}
 {"description":"1994-08-29T00:00:00.000Z","importance":"test","dueDate":"test","done":false,"_id":"70CtNOM2CxmE2vaH","state":"DELETED"}
 {"description":"Dies ist ein test","importance":"1994-08-29T00:00:00.000Z","dueDate":null,"done":false,"_id":"72kb6kPJBJASvbz8","state":"DELETED"}
+{"_id":"889LlGYsMIMFYctZ","state":"DELETED"}
 {"title":"teterte","description":"tererre","importance":"medium","dueDate":"1994-08-29T00:00:00.000Z","done":false,"_id":"8iFeNZL9JnkVAaSU","state":"DELETED"}
+{"title":"Hund spazieren gehen","description":"test","dueDate":"29.08.1994","done":false,"_id":"9ziJbNCzGTT73DAB","importance":"3","state":"DELETED"}
+{"_id":"BH9hRSGdCk19Bi8m","state":"DELETED"}
+{"title":"tes","description":"tes","importance":"medium","dueDate":"1994-08-29","done":false,"_id":"BviatgxFjyk1i15V","state":"DELETED"}
 {"description":"1994-08-29T00:00:00.000Z","importance":"test","dueDate":"test","done":false,"_id":"DlI8MZNLSguTejKh","state":"DELETED"}
-{"title":"test2222","description":"ters","importance":null,"dueDate":"1444-08-29T00:00:00.000Z","done":false,"_id":"FLI4vx9UzgIN8Zqy"}
+{"_id":"DoQSJSCT1XgxhBv4","state":"DELETED"}
+{"title":"Dies ist Test 2","description":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.","importance":"high","dueDate":"1994-08-29","done":true,"_id":"F7QeAwAB1UWufcoL","state":"DELETED"}
+{"title":"test2222","description":"ters","importance":null,"dueDate":"1444-08-29T00:00:00.000Z","done":false,"_id":"FLI4vx9UzgIN8Zqy","state":"DELETED"}
+{"newNote":{"importance":"high","dueDate":"1994-08-29","title":"tes","description":"test","done":false},"_id":"GEA6oWkkXCk8zNtZ","state":"DELETED"}
 {"description":"1994-08-29T00:00:00.000Z","importance":"test","dueDate":"test","done":false,"_id":"GEUHvBdtc657mqMy","state":"DELETED"}
 {"description":"1994-08-29T00:00:00.000Z","importance":"test","dueDate":"test","done":false,"_id":"IdEzLNnChxlmJmK8","state":"DELETED"}
 {"description":"1994-08-29T00:00:00.000Z","importance":"test","dueDate":"test","done":false,"_id":"IdOCVEkU8EhobOcO","state":"DELETED"}
 {"description":"1994-08-29T00:00:00.000Z","importance":"test","dueDate":"test","done":false,"_id":"IradVvHdD3hy9PO5","state":"DELETED"}
-{"title":"test222222222222222","description":"ters","importance":null,"dueDate":"1994-08-29T00:00:00.000Z","done":false,"_id":"J8ESUakZFdZNEe28"}
+{"title":"test222222222222222","description":"ters","importance":null,"dueDate":"1994-08-29T00:00:00.000Z","done":false,"_id":"J8ESUakZFdZNEe28","state":"DELETED"}
 {"description":"1994-08-29T00:00:00.000Z","importance":"test","dueDate":"test","_id":"JMTAxXu3VBBXqS0b","done":true,"state":"DELETED"}
+{"_id":"Jl8i7lXWDQR9dJNg","state":"DELETED"}
+{"_id":"JlOkOPK2Iy5jcQPX","state":"DELETED"}
+{"title":"test","description":"test","importance":"medium","dueDate":"29-08-1994","done":false,"_id":"K9wOfUTAcCeK7GqS","state":"DELETED"}
+{"_id":"KA0fiCMlnBTOZgia","state":"DELETED"}
+{"title":{"id":"test2222","importance":"ters","dueDate":"medium","title":"1444-08-29","description":"done"},"_id":"KBMQT1oc9ESGozeS","state":"DELETED"}
+{"title":"dies ist ein test","description":"tzerrerer","importance":"medium","dueDate":"1994-08-29","done":false,"_id":"KCXFxhr3LrEfPf4a","state":"DELETED"}
+{"title":"tes","description":"tesd","importance":2,"dueDate":"1994-08-29","done":false,"_id":"KDE9tMW6ffO6vaTA","state":"DELETED"}
+{"_id":"MZAhrfYTyoWszi66","state":"DELETED"}
 {"description":"1994-08-29T00:00:00.000Z","importance":"test","dueDate":"test","done":false,"_id":"NNzkEMaUy9TPT4kQ","state":"DELETED"}
+{"title":"test","description":"test","importance":2,"dueDate":"1994-08-28","done":false,"_id":"O5YfKNGmXjedUiyK","state":"DELETED"}
 {"description":"terst","importance":null,"dueDate":"1994-08-29T00:00:00.000Z","done":false,"_id":"OR0BK7CXOg4qudpU","state":"DELETED"}
-{"title":"dies ist ein ter","description":"tertrerre","importance":null,"dueDate":"1994-08-29T00:00:00.000Z","done":false,"_id":"Qbib6W10P6OrVral"}
-{"title":"test22","description":"ters","importance":0,"dueDate":null,"done":"done","_id":"RENkoRIcgZGpYJl2"}
+{"newNote":{"importance":"medium","dueDate":"1994-08-29","title":"tes","description":"","done":false},"_id":"P2uUINHMBmpmCyrL","state":"DELETED"}
+{"title":"Abgabe Projekt 1","description":"Abgabe des 1. Projekts im Lehrgang CASFEE 2023","importance":3,"dueDate":"26.08.2023","done":false,"_id":"P851TvBnFplWPoNl","state":"DELETED"}
+{"title":"Hund spazieren gehen","description":"test","importance":"high","dueDate":"2023-06-18","done":true,"_id":"PuN5zpzpkWd3pQnl","state":"DELETED"}
+{"title":"dies ist ein ter","description":"tertrerre","importance":null,"dueDate":"1994-08-29T00:00:00.000Z","done":false,"_id":"Qbib6W10P6OrVral","state":"DELETED"}
+{"title":"test22","description":"ters","importance":0,"dueDate":null,"done":"done","_id":"RENkoRIcgZGpYJl2","state":"DELETED"}
 {"description":"Dies ist ein test","importance":"1994-08-29T00:00:00.000Z","dueDate":null,"done":false,"_id":"Rv6yogjN8iu87HN1","state":"DELETED"}
+{"title":"test","description":"test","importance":2,"dueDate":"29.08.1994","done":false,"_id":"SBdkk44UZ387Nsb2"}
+{"title":"test","description":"test","importance":"medium","dueDate":"1994-08-29","done":false,"_id":"SLqS9eMUx2wzQLHb","state":"DELETED"}
 {"description":"1994-08-29T00:00:00.000Z","importance":"test","dueDate":"test","done":false,"_id":"SSC4JdO8BwQEA6WQ","state":"DELETED"}
 {"description":"1994-08-29T00:00:00.000Z","importance":"test","dueDate":"test","done":false,"_id":"T21usVlW9E6caflj","state":"DELETED"}
+{"_id":"UVJF70FCXlNpZW0o","state":"DELETED"}
+{"title":"Abgabe Notes App","description":"Abgabe nach Dokument \"Projekt 1\"","importance":"high","dueDate":"2023-06-26","done":false,"_id":"V2n6KXPGbk8b3fYc","state":"DELETED"}
+{"description":{"importance":"test","dueDate":"high","title":"1994-08-29","description":"done"},"_id":"Vj93SjhxrPrv7kpf","state":"DELETED"}
+{"_id":"WSGdHWfiGCHcwBR5","state":"DELETED"}
+{"title":"tes","description":"test","importance":3,"dueDate":"29.08.1994","done":false,"_id":"X8fdVzNwc6uwjCUX"}
+{"_id":"XQ2cuTj6ko0XK53W","state":"DELETED"}
 {"description":"sksjsjsjsjsjjsjsj","importance":"1994-08-29T00:00:00.000Z","dueDate":null,"done":false,"_id":"YDG8TL0pD9cElFGv","state":"DELETED"}
+{"_id":"YaDFD1RdD6dnVpeg","state":"DELETED"}
+{"title":"test","description":"","importance":3,"dueDate":"1994-08-28T22:00:00.000Z","done":false,"_id":"ZI8YG7kn7Nz5jqL9","state":"DELETED"}
 {"description":"1994-08-29T00:00:00.000Z","importance":"test","dueDate":"test","done":false,"_id":"ZWTmG643t4BLFSvq","state":"DELETED"}
-{"title":"test222222222222222","description":"ters","importance":null,"dueDate":"1994-08-29T00:00:00.000Z","done":false,"_id":"cCuT1fCTiVLZaw61"}
+{"title":"test222222222222222","description":"ters","importance":null,"dueDate":"1994-08-29T00:00:00.000Z","done":false,"_id":"cCuT1fCTiVLZaw61","state":"DELETED"}
 {"description":"rererrer","importance":null,"dueDate":"1994-08-29T00:00:00.000Z","done":false,"_id":"dHTqcVGiOdoAV3ct","state":"DELETED"}
+{"title":"tes","description":"teeeeeee","importance":"2","dueDate":"29.08.1994","done":false,"_id":"dQV8D9fCzmr6665C","state":"DELETED"}
 {"description":"1994-08-29T00:00:00.000Z","importance":"test","dueDate":"test","done":false,"_id":"ejfHz0edkr1EMy5w","state":"DELETED"}
+{"title":{"id":"test","importance":"test","dueDate":"medium","title":"1994-08-29","description":"done"},"_id":"gS3XG5DKcCYTNear","state":"DELETED"}
 {"title":"undefined","description":"Dies ist ein test","importance":"medium","dueDate":"2023-06-23T00:00:00.000Z","done":false,"_id":"hafV5JciCUTPnkah","state":"DELETED"}
+{"title":"Test 3","description":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua","importance":"low","dueDate":"1994-08-29","done":false,"_id":"iTWXEGXjSbYYYsTt","state":"DELETED"}
+{"title":"test","description":"test","importance":2,"dueDate":"29.08.1994","done":false,"_id":"jIqhKklQwhMeAN1t","state":"DELETED"}
 {"description":"terst","importance":"1994-08-29T00:00:00.000Z","dueDate":null,"done":false,"_id":"kItYZuPYUiWrngY1","state":"DELETED"}
+{"_id":"kUMvJJ6KIXlrWCkb","state":"DELETED"}
+{"title":"Hund spazieren gehen","description":"test","importance":2,"dueDate":"29.08.1994","done":false,"_id":"kWRB0kKiV8hskhMN","state":"DELETED"}
+{"_id":"kaIovG96gZ0p74TG","state":"DELETED"}
+{"_id":"l6v0Gi7xGz1z1riD","state":"DELETED"}
+{"_id":"lEDfY2lnfhDNnwuM","state":"DELETED"}
+{"_id":"lShtRQX1ewlfqCPn","state":"DELETED"}
 {"description":"tere","importance":null,"dueDate":"8884-09-22T00:00:00.000Z","done":false,"_id":"mhzClJbiYWvRcWHu","state":"DELETED"}
+{"title":"Abgabe Notes App","description":"Abgabe nach Dokument","importance":"high","dueDate":"2023-04-26","done":false,"_id":"n1fqXeI43tsXYPLW","state":"DELETED"}
+{"newNote":{"importance":"medium","dueDate":"1994-08-29","title":"tes","description":"tes","done":false},"_id":"n2PQZ7ogXIbPiQ7y","state":"DELETED"}
+{"title":"test","description":"test","dueDate":"29.08.1994","done":true,"_id":"n59qhw5nb3u1Pg7d"}
+{"title":"testtttt","description":"tes","importance":"medium","dueDate":"1994-08-29","done":false,"_id":"nEjrLWDapfxZA9Yn","state":"DELETED"}
+{"title":{"id":"test","importance":"test","dueDate":"medium","title":"1994-08-29","description":"done"},"_id":"nfWKha1wjmmeyYUD","state":"DELETED"}
+{"title":"eeeeee","description":"eeee","importance":2,"dueDate":"29.08.1994","done":false,"_id":"oDdcF6QlMPVKQlZO"}
+{"title":"Dies it ein test","description":"test","importance":"medium","dueDate":"1994-08-29","done":false,"_id":"oLkI95uHkEy6ZlNP","state":"DELETED"}
+{"title":"test","description":"tes","importance":"medium","dueDate":"1994-08-29","done":false,"_id":"qIX7h9MZNOOjalU6","state":"DELETED"}
+{"title":{"id":"test fix","importance":"testeeeer","dueDate":"medium","title":"2022-06-13","description":"done"},"_id":"rjsv0kuM64GyIYhv","state":"DELETED"}
+{"_id":"rk7mARRCo6E2nhZv","state":"DELETED"}
+{"title":"test","description":"","importance":2,"dueDate":"1994-08-29","done":false,"_id":"vbtRQdzTbez0FMsm","state":"DELETED"}
 {"description":"1994-08-29T00:00:00.000Z","importance":"test","dueDate":"test","done":false,"_id":"vqfkYe1NclKO0CxK","state":"DELETED"}
-{"title":"dies ist ein ters","description":"tertrerre","importance":null,"dueDate":"1994-08-29T00:00:00.000Z","done":false,"_id":"znCvsmhnOZGzlSTB"}
+{"title":"dies ist ein ters","description":"tertrerre","importance":null,"dueDate":"1994-08-29T00:00:00.000Z","done":false,"_id":"znCvsmhnOZGzlSTB","state":"DELETED"}
+{"title":"test","description":"ZTeeeee","importance":2,"dueDate":"1994-08-29","done":false,"_id":"zuRIsoOarIyuDG0z","state":"DELETED"}
