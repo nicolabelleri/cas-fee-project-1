@@ -31,7 +31,6 @@ export default class NoteService {
 
         if(sort) params.append('sort', sort);
         if(filter) params.append('filter', filter);
-        console.log(params.toString());
         return this.httpService.ajax("GET", `/notes/?${params.toString()}`, undefined);
     }
 }

@@ -1,25 +1,55 @@
+{"title":"tetetett","description":"tetet","importance":2,"dueDate":"8111-09-21","done":false,"_id":"0pPvdEGgh3ZkxTIK","state":"DELETED"}
 {"_id":"1Ec8Xow7nL0Rf6L3","state":"DELETED"}
 {"title":"tsssssss22223333","description":"test","importance":"low","dueDate":"1994-08-30","done":false,"_id":"1GrPRUTial9yfq4z","state":"DELETED"}
 {"_id":"1jpbIjJAezXTtjtU","state":"DELETED"}
 {"description":"1994-08-29T00:00:00.000Z","importance":"test","dueDate":"test","done":false,"_id":"1wgTkm9H2zqO01S7","state":"DELETED"}
+{"title":"Test","description":"test","importance":2,"dueDate":null,"done":false,"_id":"2k7MB1LP3O9aILxg","state":"DELETED"}
+{"title":"test","description":"rweewewewe","importance":1,"dueDate":"29.08.1994","done":false,"_id":"30RVjY33Zf8PERuc","state":"DELETED"}
 {"description":"1994-08-29T00:00:00.000Z","importance":"test","dueDate":"test","done":false,"_id":"3vv34E4X5fWmEx3f","state":"DELETED"}
 {"_id":"5G8JHExe8IpJZlrV","state":"DELETED"}
+{"title":"test","description":"rwssss","importance":2,"dueDate":{"$$date":0},"done":false,"_id":"5H8f1hPhwMDNicX4","state":"DELETED"}
 {"description":"sdsdsd","importance":"1994-08-29T00:00:00.000Z","dueDate":null,"done":false,"_id":"5U0GxOgIFgWXA06z","state":"DELETED"}
+{"title":"rtewrer","description":"rerre","importance":1,"dueDate":null,"done":false,"_id":"5WQr2QYcmiOCUVSL","state":"DELETED"}
+{"title":"rererrerrerr","description":"rerer","importance":2,"dueDate":"1994-08-29","done":false,"_id":"5idGzdhM4FSW5ISH","state":"DELETED"}
 {"_id":"6FGo807166bHjiHf","state":"DELETED"}
-{"title":"test","description":"test","importance":2,"dueDate":"1994-08-29","done":false,"_id":"6FOXqAvFSZTDx57Q"}
+{"title":"test","description":"test","importance":1,"dueDate":"Invalid date","done":true,"_id":"6FOXqAvFSZTDx57Q","state":"DELETED"}
+{"title":"test2222333333","description":"tes","importance":2,"dueDate":null,"done":false,"_id":"6UQWOuvo3tjuV9Co","state":"DELETED"}
+{"title":"Dies ist test 1","description":"Dies ist test 1","importance":2,"dueDate":"1994-08-31","done":false,"_id":"6nlFHufAWXBXDRZV","state":"DELETED"}
 {"description":"1994-08-29T00:00:00.000Z","importance":"test","dueDate":"test","done":false,"_id":"70CtNOM2CxmE2vaH","state":"DELETED"}
 {"description":"Dies ist ein test","importance":"1994-08-29T00:00:00.000Z","dueDate":null,"done":false,"_id":"72kb6kPJBJASvbz8","state":"DELETED"}
 {"_id":"889LlGYsMIMFYctZ","state":"DELETED"}
+{"title":"test","description":"test","importance":1,"dueDate":null,"done":false,"_id":"8TjHgcf7WRldgQWW","state":"DELETED"}
 {"title":"teterte","description":"tererre","importance":"medium","dueDate":"1994-08-29T00:00:00.000Z","done":false,"_id":"8iFeNZL9JnkVAaSU","state":"DELETED"}
+{"title":"5km Lauf","description":"5km Lauf Wettkampftempo","importance":1,"dueDate":"2023-07-07","done":false,"_id":"9ArO66vCjhW5ZWFt"}
+{"title":"5km Lauf","description":"5km Lauf in Wettkampftempo","importance":1,"dueDate":"2023-07-03","done":false,"_id":"9c3P4dt2jjCvSpab","state":"DELETED"}
+{"title":"rerer","description":"rerer","importance":2,"dueDate":"1994-08-29","done":false,"_id":"9hZDOtQWuSx3vtZY"}
+{"title":"5km Lauf","description":"5km Lauf absolvieren","importance":1,"dueDate":"03.07.2023","done":false,"_id":"9zbjOaunBEZZaR7r","state":"DELETED"}
 {"title":"Hund spazieren gehen","description":"test","dueDate":"29.08.1994","done":false,"_id":"9ziJbNCzGTT73DAB","importance":"3","state":"DELETED"}
+{"title":"Dies ist Test 2","description":"Test","importance":1,"dueDate":"1994-08-29","done":false,"_id":"AHAbKUKgkyE5zLHT","state":"DELETED"}
+{"title":"tetetet","description":"tetett","importance":2,"dueDate":"1944-08-29","done":false,"_id":"AtswKZlSrSoTEPzJ","state":"DELETED"}
 {"_id":"BH9hRSGdCk19Bi8m","state":"DELETED"}
 {"title":"tes","description":"tes","importance":"medium","dueDate":"1994-08-29","done":false,"_id":"BviatgxFjyk1i15V","state":"DELETED"}
+{"title":"test","description":"","importance":1,"dueDate":"29.08.1994","done":true,"_id":"DIb1glE2SNfhKT3x","state":"DELETED"}
 {"description":"1994-08-29T00:00:00.000Z","importance":"test","dueDate":"test","done":false,"_id":"DlI8MZNLSguTejKh","state":"DELETED"}
 {"_id":"DoQSJSCT1XgxhBv4","state":"DELETED"}
+{"title":"Projekt 1 abgeben","description":"Projekt 1 nach vorgaben abgeben","importance":3,"dueDate":{"$$date":1687737600000},"done":false,"_id":"E1U2v26sS2iIy8Uy","state":"DELETED"}
+{"title":"Projekt 1 abgeben","description":"Projekt 1 nach vorgaben abgeben","importance":3,"dueDate":{"$$date":1687737600000},"done":false,"_id":"EFG7nOGPGq4DUriC","state":"DELETED"}
+{"title":"test","description":"Semesterplan abschliessen","importance":2,"dueDate":"01.08.2023","_id":"EtbYWRu2AzCUxW17","state":"DELETED"}
+{"title":"rerer","description":"rererre","importance":2,"dueDate":"1994-08-29","done":false,"_id":"F4BxcSXHPtmRkLG1","state":"DELETED"}
 {"title":"Dies ist Test 2","description":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.","importance":"high","dueDate":"1994-08-29","done":true,"_id":"F7QeAwAB1UWufcoL","state":"DELETED"}
+{"title":"rererer","description":"rerere","importance":2,"dueDate":"1994-08-29","done":false,"_id":"FACuyrjMbdBkjP1C","state":"DELETED"}
+{"title":"Projekt 1 Abgabe","description":"Projekt 1 nach Vorgabe","importance":3,"dueDate":"2023-06-26","done":false,"_id":"FD50BNBcC14YmWGJ"}
 {"title":"test2222","description":"ters","importance":null,"dueDate":"1444-08-29T00:00:00.000Z","done":false,"_id":"FLI4vx9UzgIN8Zqy","state":"DELETED"}
 {"newNote":{"importance":"high","dueDate":"1994-08-29","title":"tes","description":"test","done":false},"_id":"GEA6oWkkXCk8zNtZ","state":"DELETED"}
+{"title":"rererer","description":"rerere","importance":2,"dueDate":"1994-08-29","done":false,"_id":"GEDgoR2sgIkUB111","state":"DELETED"}
 {"description":"1994-08-29T00:00:00.000Z","importance":"test","dueDate":"test","done":false,"_id":"GEUHvBdtc657mqMy","state":"DELETED"}
+{"title":"rererererre","description":"rererr","importance":2,"dueDate":"1994-01-29","done":false,"_id":"Gc3m3besXcYeNy3v","state":"DELETED"}
+{"title":"tetetett","description":"tetet","importance":2,"dueDate":"8111-09-21","done":false,"_id":"GlRzAXzn5dA1IXYw","state":"DELETED"}
+{"title":"tetetett","description":"tetet","importance":2,"dueDate":"8111-09-21","done":false,"_id":"GrlvxgZO9iASptjQ","state":"DELETED"}
+{"title":"Hund spazieren gehen 222","description":"Mit dem Hund spazieren gehen","importance":1,"dueDate":"25.06.2023","done":true,"_id":"HDIAUl9xlimcS81L","state":"DELETED"}
+{"title":"rerre","description":"rererre","importance":2,"dueDate":"1994-08-29","done":false,"_id":"HGNiSWLU52vPy9xi","state":"DELETED"}
+{"title":"rerer","description":"rerere","importance":2,"dueDate":null,"done":false,"_id":"HYNFYh1UrrQhtfFq","state":"DELETED"}
+{"title":"Projekt abgeben","description":"testss","importance":1,"dueDate":null,"done":false,"_id":"I0tHE3q3WEDcNfWe","state":"DELETED"}
 {"description":"1994-08-29T00:00:00.000Z","importance":"test","dueDate":"test","done":false,"_id":"IdEzLNnChxlmJmK8","state":"DELETED"}
 {"description":"1994-08-29T00:00:00.000Z","importance":"test","dueDate":"test","done":false,"_id":"IdOCVEkU8EhobOcO","state":"DELETED"}
 {"description":"1994-08-29T00:00:00.000Z","importance":"test","dueDate":"test","done":false,"_id":"IradVvHdD3hy9PO5","state":"DELETED"}
@@ -33,56 +63,130 @@
 {"title":"dies ist ein test","description":"tzerrerer","importance":"medium","dueDate":"1994-08-29","done":false,"_id":"KCXFxhr3LrEfPf4a","state":"DELETED"}
 {"title":"tes","description":"tesd","importance":2,"dueDate":"1994-08-29","done":false,"_id":"KDE9tMW6ffO6vaTA","state":"DELETED"}
 {"_id":"MZAhrfYTyoWszi66","state":"DELETED"}
+{"title":"teetteettet","description":"tetett","importance":2,"dueDate":null,"done":false,"_id":"Mf1KBgWjFeMpIIk4","state":"DELETED"}
+{"title":"Abgabe Projekt 1","description":"Abgabe Projekt 1","importance":3,"dueDate":"25.06.2023","done":true,"_id":"MpQKrnABgkwYGPRQ","state":"DELETED"}
 {"description":"1994-08-29T00:00:00.000Z","importance":"test","dueDate":"test","done":false,"_id":"NNzkEMaUy9TPT4kQ","state":"DELETED"}
+{"title":"Dies ist Test 3","description":"Dies ist Test 3","importance":1,"dueDate":"1994-09-01","done":false,"_id":"NaL9srKuDVNpwfDe","state":"DELETED"}
 {"title":"test","description":"test","importance":2,"dueDate":"1994-08-28","done":false,"_id":"O5YfKNGmXjedUiyK","state":"DELETED"}
 {"description":"terst","importance":null,"dueDate":"1994-08-29T00:00:00.000Z","done":false,"_id":"OR0BK7CXOg4qudpU","state":"DELETED"}
+{"title":"Projekt 1 abgabe","description":"jekt 1 abgabe","importance":1,"dueDate":"1994-08-29","done":false,"_id":"OUCc7qX5wZs1ITV6","state":"DELETED"}
+{"title":"test33333333","description":"test33333333","importance":1,"dueDate":"1994-08-31","done":false,"_id":"OpOhpkd2bBjurFY1","state":"DELETED"}
 {"newNote":{"importance":"medium","dueDate":"1994-08-29","title":"tes","description":"","done":false},"_id":"P2uUINHMBmpmCyrL","state":"DELETED"}
 {"title":"Abgabe Projekt 1","description":"Abgabe des 1. Projekts im Lehrgang CASFEE 2023","importance":3,"dueDate":"26.08.2023","done":false,"_id":"P851TvBnFplWPoNl","state":"DELETED"}
+{"title":"test","description":"terdd","importance":2,"dueDate":"31.03.275760","done":true,"_id":"PIqXVWbfiJvLCKac","state":"DELETED"}
+{"title":" Jogginglauf 10km","description":"10km lauf","importance":2,"dueDate":"06.07.2023","done":false,"_id":"PJKgrjnoG0YVBamE","state":"DELETED"}
+{"title":"Projekt 1 abgeben","description":"Projekt 1 nach vorgaben abgeben","importance":3,"dueDate":{"$$date":1687737600000},"done":false,"_id":"PVmDvfVo6xtS5rFX","state":"DELETED"}
 {"title":"Hund spazieren gehen","description":"test","importance":"high","dueDate":"2023-06-18","done":true,"_id":"PuN5zpzpkWd3pQnl","state":"DELETED"}
+{"title":"rrererr","description":"rererr","importance":2,"dueDate":"1994-08-29","done":false,"_id":"QRQpJYxgy2Qo2tMh","state":"DELETED"}
 {"title":"dies ist ein ter","description":"tertrerre","importance":null,"dueDate":"1994-08-29T00:00:00.000Z","done":false,"_id":"Qbib6W10P6OrVral","state":"DELETED"}
+{"title":"Hund spazieren gehen","description":"rerre","importance":2,"dueDate":"1994-08-29","done":false,"_id":"QmLP9JsfzZbd6IUB","state":"DELETED"}
+{"title":"rererer","description":"rrerer","importance":2,"dueDate":"1994-08-29","done":false,"_id":"R1OmpkrLhNEerhsA","state":"DELETED"}
 {"title":"test22","description":"ters","importance":0,"dueDate":null,"done":"done","_id":"RENkoRIcgZGpYJl2","state":"DELETED"}
+{"title":"Dies ist Test 2","description":"tetrteetteee","importance":1,"dueDate":"1994-08-31","done":false,"_id":"RltezZ3zI83tSOiZ","state":"DELETED"}
+{"title":"Jogginglauf 10km","description":"Jogginglauf absolvieren","importance":1,"dueDate":"23.07.2023","done":false,"_id":"RpIe0puQJovOGbbW","state":"DELETED"}
 {"description":"Dies ist ein test","importance":"1994-08-29T00:00:00.000Z","dueDate":null,"done":false,"_id":"Rv6yogjN8iu87HN1","state":"DELETED"}
-{"title":"test","description":"test","importance":2,"dueDate":"29.08.1994","done":false,"_id":"SBdkk44UZ387Nsb2"}
+{"title":"test","description":"test","importance":2,"dueDate":"29.08.1994","done":true,"_id":"SBdkk44UZ387Nsb2","state":"DELETED"}
 {"title":"test","description":"test","importance":"medium","dueDate":"1994-08-29","done":false,"_id":"SLqS9eMUx2wzQLHb","state":"DELETED"}
+{"title":"Dies ist Test 3","description":"Dies ist Test 3","importance":1,"dueDate":"1994-09-01","done":false,"_id":"SO11Ba4Lmnx4bZWK","state":"DELETED"}
 {"description":"1994-08-29T00:00:00.000Z","importance":"test","dueDate":"test","done":false,"_id":"SSC4JdO8BwQEA6WQ","state":"DELETED"}
 {"description":"1994-08-29T00:00:00.000Z","importance":"test","dueDate":"test","done":false,"_id":"T21usVlW9E6caflj","state":"DELETED"}
+{"title":"Hund spazieren gehen","description":"test","importance":2,"dueDate":null,"done":false,"_id":"TPSTIHHinYTKs4v4","state":"DELETED"}
+{"title":"Dies ist Test 2","description":"Test","importance":1,"dueDate":"1994-08-29","done":false,"_id":"TjfieuIUzIrJtvNG","state":"DELETED"}
 {"_id":"UVJF70FCXlNpZW0o","state":"DELETED"}
+{"title":"Projekt abgeben","description":"testss","importance":1,"dueDate":null,"done":false,"_id":"UWoWvDjdpjIFDktp","state":"DELETED"}
+{"title":"rerreer","description":"rerer","importance":2,"dueDate":"1994-08-29","done":false,"_id":"Uv8Fvn3nXGlTOGAJ","state":"DELETED"}
 {"title":"Abgabe Notes App","description":"Abgabe nach Dokument \"Projekt 1\"","importance":"high","dueDate":"2023-06-26","done":false,"_id":"V2n6KXPGbk8b3fYc","state":"DELETED"}
+{"title":"Hund spazieren gehen","description":"Mit dem Hund spazieren gehen.","importance":2,"dueDate":"2023-06-25","done":true,"_id":"VOvHpEYddmw5HaED"}
+{"title":"test","description":"test","importance":2,"dueDate":null,"done":false,"_id":"VZl0KNgcXhcwLO8l","state":"DELETED"}
 {"description":{"importance":"test","dueDate":"high","title":"1994-08-29","description":"done"},"_id":"Vj93SjhxrPrv7kpf","state":"DELETED"}
+{"title":"rtewrer","description":"rerre","importance":1,"dueDate":null,"done":false,"_id":"WNsyEEIsExXksxeJ","state":"DELETED"}
+{"title":"Jogginglauf 10km","description":"Jogginglauf absolvieren","importance":1,"dueDate":"23.07.2023","done":false,"_id":"WQpUmapdoDwnvatO","state":"DELETED"}
 {"_id":"WSGdHWfiGCHcwBR5","state":"DELETED"}
-{"title":"tes","description":"test","importance":3,"dueDate":"29.08.1994","done":false,"_id":"X8fdVzNwc6uwjCUX"}
+{"title":"rereer","description":"rererr","importance":2,"dueDate":null,"done":false,"_id":"WX0WUJnU0hxgFnLG","state":"DELETED"}
+{"title":"","description":"","importance":0,"dueDate":"Invalid date","_id":"WaHNuUcO7D7MtsXf","state":"DELETED"}
+{"title":"teee","description":"tesd","importance":1,"dueDate":"25.06.2023","done":false,"_id":"WprhihVvvePHZyFc","state":"DELETED"}
+{"title":"tes","description":"test","importance":2,"dueDate":"29.08.1994","done":true,"_id":"X8fdVzNwc6uwjCUX","state":"DELETED"}
 {"_id":"XQ2cuTj6ko0XK53W","state":"DELETED"}
+{"title":"test222222","description":"tzetet","importance":1,"dueDate":{"$$date":780969600000},"done":false,"_id":"Xjtc4uchqfkp7E6r","state":"DELETED"}
 {"description":"sksjsjsjsjsjjsjsj","importance":"1994-08-29T00:00:00.000Z","dueDate":null,"done":false,"_id":"YDG8TL0pD9cElFGv","state":"DELETED"}
+{"title":"","description":"","importance":1,"dueDate":null,"done":false,"_id":"YK7oKG7qCLZGnzkl","state":"DELETED"}
 {"_id":"YaDFD1RdD6dnVpeg","state":"DELETED"}
+{"title":"Dies ist Test 2","description":"tesd","importance":2,"dueDate":"29.08.1994","done":false,"_id":"YcgMo842GSnF72E6","state":"DELETED"}
+{"title":"test","description":"terdd","importance":2,"dueDate":"31.03.275760","_id":"ZE94496XqmLQVttf","state":"DELETED"}
 {"title":"test","description":"","importance":3,"dueDate":"1994-08-28T22:00:00.000Z","done":false,"_id":"ZI8YG7kn7Nz5jqL9","state":"DELETED"}
 {"description":"1994-08-29T00:00:00.000Z","importance":"test","dueDate":"test","done":false,"_id":"ZWTmG643t4BLFSvq","state":"DELETED"}
+{"title":"test","description":"tetet","importance":2,"dueDate":"1994-08-29","done":false,"_id":"ZZDXwQhoSnvy4ZeL","state":"DELETED"}
+{"title":"Projekt 1 Abgabe","description":"Projekt 1 nach Vorgabe","importance":3,"dueDate":"2023-04-26","done":false,"_id":"ZZs4hXUBbLjVFtq0","state":"DELETED"}
+{"title":"rerer","description":"rererre","importance":2,"dueDate":"1994-08-29","done":false,"_id":"ZfHIT7wK6mF66WsA","state":"DELETED"}
+{"title":"Jogginglauf 10km","description":"Jogginglauf absolvieren","importance":1,"dueDate":"23.07.2023","done":false,"_id":"aMr8nwFVcGc04Kby","state":"DELETED"}
+{"title":"test66666","description":"tree","importance":1,"dueDate":{"$$date":781056000000},"done":false,"_id":"b3GUwKatu5ELqUqo","state":"DELETED"}
 {"title":"test222222222222222","description":"ters","importance":null,"dueDate":"1994-08-29T00:00:00.000Z","done":false,"_id":"cCuT1fCTiVLZaw61","state":"DELETED"}
 {"description":"rererrer","importance":null,"dueDate":"1994-08-29T00:00:00.000Z","done":false,"_id":"dHTqcVGiOdoAV3ct","state":"DELETED"}
+{"title":"dies ist ein ter","description":"test","importance":2,"dueDate":"1994-08-29","done":false,"_id":"dMMBjmQUIoNfN9xk","state":"DELETED"}
 {"title":"tes","description":"teeeeeee","importance":"2","dueDate":"29.08.1994","done":false,"_id":"dQV8D9fCzmr6665C","state":"DELETED"}
+{"title":"rererer","description":"rrerer","importance":2,"dueDate":"1994-08-29","done":false,"_id":"dwi0SrJTrJXqAQ8B","state":"DELETED"}
+{"title":"test33333333","description":"test33333333","importance":1,"dueDate":"1994-08-31","done":false,"_id":"e20RdH7R4WJPMtbA","state":"DELETED"}
+{"title":"tetetet","description":"tetett","importance":2,"dueDate":"1944-08-29","done":false,"_id":"ecP88jwlJ7tJyoWa","state":"DELETED"}
 {"description":"1994-08-29T00:00:00.000Z","importance":"test","dueDate":"test","done":false,"_id":"ejfHz0edkr1EMy5w","state":"DELETED"}
+{"title":"10km Lauf","description":"10km Lauf Wettkampftempo","importance":2,"dueDate":"2023-07-20","done":false,"_id":"embN4eXKiYKQHDgY"}
+{"title":"Projekt 1 abgabe","description":"jekt 1 abgabe","importance":1,"dueDate":"1994-08-29","done":false,"_id":"fOF6XKBqkvcqz35P","state":"DELETED"}
+{"title":"test","description":"test","importance":1,"dueDate":"1994-08-29","done":false,"_id":"fnA8lKiECyTdZ6Aq","state":"DELETED"}
 {"title":{"id":"test","importance":"test","dueDate":"medium","title":"1994-08-29","description":"done"},"_id":"gS3XG5DKcCYTNear","state":"DELETED"}
+{"title":"rewrerreerreerererererer","description":"rererr","importance":2,"dueDate":"1994-08-29","done":false,"_id":"hFNSnRBHarhYnh6c","state":"DELETED"}
+{"title":"Jogginglauf 10km","description":"Jogginglauf absolvieren","importance":1,"dueDate":"23.07.2023","done":false,"_id":"hO41mzXcDA2i230I","state":"DELETED"}
 {"title":"undefined","description":"Dies ist ein test","importance":"medium","dueDate":"2023-06-23T00:00:00.000Z","done":false,"_id":"hafV5JciCUTPnkah","state":"DELETED"}
+{"title":"dies ist ein ter","description":"tetett","importance":1,"dueDate":"1994-08-29","done":false,"_id":"hlAkUKoD390Fld5q","state":"DELETED"}
 {"title":"Test 3","description":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua","importance":"low","dueDate":"1994-08-29","done":false,"_id":"iTWXEGXjSbYYYsTt","state":"DELETED"}
 {"title":"test","description":"test","importance":2,"dueDate":"29.08.1994","done":false,"_id":"jIqhKklQwhMeAN1t","state":"DELETED"}
 {"description":"terst","importance":"1994-08-29T00:00:00.000Z","dueDate":null,"done":false,"_id":"kItYZuPYUiWrngY1","state":"DELETED"}
+{"title":"teetteettet","description":"tetett","importance":2,"dueDate":null,"done":false,"_id":"kO2fzJ49h2vGWPbM","state":"DELETED"}
 {"_id":"kUMvJJ6KIXlrWCkb","state":"DELETED"}
 {"title":"Hund spazieren gehen","description":"test","importance":2,"dueDate":"29.08.1994","done":false,"_id":"kWRB0kKiV8hskhMN","state":"DELETED"}
 {"_id":"kaIovG96gZ0p74TG","state":"DELETED"}
 {"_id":"l6v0Gi7xGz1z1riD","state":"DELETED"}
 {"_id":"lEDfY2lnfhDNnwuM","state":"DELETED"}
+{"title":"Test","description":"test","importance":2,"dueDate":null,"done":false,"_id":"lEoq9r1vTOGvUrC3","state":"DELETED"}
 {"_id":"lShtRQX1ewlfqCPn","state":"DELETED"}
+{"title":"rtewrer","description":"rerre","importance":1,"dueDate":null,"done":false,"_id":"ltjLnnsdKabtx4j8","state":"DELETED"}
+{"title":"","description":"","importance":1,"dueDate":"Invalid date","_id":"mdVPGBHD2Z8rcMK4","state":"DELETED"}
+{"title":"","description":"Semesterplan abschliessen","importance":2,"dueDate":"01.08.2023","done":false,"_id":"melqy8PRyhebkNuS","state":"DELETED"}
 {"description":"tere","importance":null,"dueDate":"8884-09-22T00:00:00.000Z","done":false,"_id":"mhzClJbiYWvRcWHu","state":"DELETED"}
+{"title":"rtewrer","description":"rerre","importance":1,"dueDate":null,"done":false,"_id":"mzE8FErvRT7B1eom","state":"DELETED"}
 {"title":"Abgabe Notes App","description":"Abgabe nach Dokument","importance":"high","dueDate":"2023-04-26","done":false,"_id":"n1fqXeI43tsXYPLW","state":"DELETED"}
 {"newNote":{"importance":"medium","dueDate":"1994-08-29","title":"tes","description":"tes","done":false},"_id":"n2PQZ7ogXIbPiQ7y","state":"DELETED"}
-{"title":"test","description":"test","dueDate":"29.08.1994","done":true,"_id":"n59qhw5nb3u1Pg7d"}
+{"title":"test","description":"test","dueDate":"29.08.1994","done":true,"_id":"n59qhw5nb3u1Pg7d","importance":1,"state":"DELETED"}
 {"title":"testtttt","description":"tes","importance":"medium","dueDate":"1994-08-29","done":false,"_id":"nEjrLWDapfxZA9Yn","state":"DELETED"}
 {"title":{"id":"test","importance":"test","dueDate":"medium","title":"1994-08-29","description":"done"},"_id":"nfWKha1wjmmeyYUD","state":"DELETED"}
-{"title":"eeeeee","description":"eeee","importance":2,"dueDate":"29.08.1994","done":false,"_id":"oDdcF6QlMPVKQlZO"}
+{"title":"eeeeee","description":"eeee","importance":2,"dueDate":"29.08.1994","done":false,"_id":"oDdcF6QlMPVKQlZO","state":"DELETED"}
 {"title":"Dies it ein test","description":"test","importance":"medium","dueDate":"1994-08-29","done":false,"_id":"oLkI95uHkEy6ZlNP","state":"DELETED"}
+{"title":"10km Lauf","description":"10km Lauf absolvieren","importance":1,"dueDate":{"$$date":1696629600000},"done":false,"_id":"oUoXLir64ymjyaL2","state":"DELETED"}
+{"title":"Abgabe Projekt 1","description":"Abgabe Projekt 1 nach Vorgabe","importance":3,"dueDate":"26.06.2023","done":false,"_id":"oz9f0yLdDFifQ2M6","state":"DELETED"}
+{"title":"Projekt abgeben","description":"testss","importance":1,"dueDate":null,"done":false,"_id":"p2CkdG9NSVs5iPTX","state":"DELETED"}
+{"title":"5km Lauf","description":"5km Lauf absolvieren","importance":1,"dueDate":"03.07.2023","done":false,"_id":"p8NBZ7aSfVumz0RE","state":"DELETED"}
+{"title":"Dies ist Test 2","description":"test","importance":1,"dueDate":"1994-08-29","done":false,"_id":"pdLGBMPjU8qjmbf6","state":"DELETED"}
+{"title":"rererererre","description":"rererr","importance":2,"dueDate":"1994-01-29","done":false,"_id":"pnM3xnTC5U18QrgW","state":"DELETED"}
 {"title":"test","description":"tes","importance":"medium","dueDate":"1994-08-29","done":false,"_id":"qIX7h9MZNOOjalU6","state":"DELETED"}
 {"title":{"id":"test fix","importance":"testeeeer","dueDate":"medium","title":"2022-06-13","description":"done"},"_id":"rjsv0kuM64GyIYhv","state":"DELETED"}
 {"_id":"rk7mARRCo6E2nhZv","state":"DELETED"}
+{"title":"rtewrer","description":"rerre","importance":1,"dueDate":null,"done":false,"_id":"rxhXv2przZ29Fp3M","state":"DELETED"}
+{"title":"test","description":"test","importance":1,"dueDate":null,"done":false,"_id":"s813DyFQa1mIGJAX","state":"DELETED"}
+{"title":"test","description":"rwsssss","importance":1,"dueDate":null,"done":false,"_id":"sRYgyuxoEU8YvfNL","state":"DELETED"}
+{"title":"rw","description":"test","importance":2,"dueDate":null,"done":false,"_id":"sWVtbzw8LnZ9pbYt","state":"DELETED"}
+{"title":"","description":"","importance":0,"dueDate":"Invalid date","_id":"sclX4al35oXwlo8Z","state":"DELETED"}
+{"title":"","description":"","importance":1,"dueDate":null,"done":false,"_id":"uzNQGSmWxYE9dXVt","state":"DELETED"}
+{"title":"","description":"","importance":0,"dueDate":"Invalid date","_id":"vGHWRlnRTakakp8n","state":"DELETED"}
+{"title":"rererer","description":"rrerer","importance":2,"dueDate":"1994-08-29","done":false,"_id":"vXWm5ofoalNVaIcv","state":"DELETED"}
 {"title":"test","description":"","importance":2,"dueDate":"1994-08-29","done":false,"_id":"vbtRQdzTbez0FMsm","state":"DELETED"}
 {"description":"1994-08-29T00:00:00.000Z","importance":"test","dueDate":"test","done":false,"_id":"vqfkYe1NclKO0CxK","state":"DELETED"}
+{"title":"rererrerrerr","description":"rerer","importance":2,"dueDate":"1994-08-29","done":false,"_id":"vyV72W168F0p8QRc","state":"DELETED"}
+{"title":"rererr","description":"rerere","importance":2,"dueDate":"1994-08-29","done":false,"_id":"wCjDB19xkEY8qJF2","state":"DELETED"}
+{"title":"Jogginglauf 5km","description":"5km Lauf","importance":1,"dueDate":"03.07.2023","done":false,"_id":"wU2POyU2LN0MEdHj","state":"DELETED"}
+{"title":"test","description":"test","importance":1,"dueDate":null,"done":false,"_id":"wsCTFyEabvygg4Oz","state":"DELETED"}
+{"title":"teee","description":"","importance":3,"dueDate":"01.01.0232","_id":"xJtt6jK76niTZilb","state":"DELETED"}
+{"title":"tetet","description":"tetet","importance":2,"dueDate":"1994-08-29","done":false,"_id":"xoyAoG6DZZVpQBPC","state":"DELETED"}
+{"title":"","description":"","importance":0,"dueDate":"Invalid date","_id":"xses1pN0860yu3jw","state":"DELETED"}
+{"title":"test","description":"test","importance":2,"dueDate":"29.08.1994","_id":"zG2bxSopFGVsDl6c","state":"DELETED"}
 {"title":"dies ist ein ters","description":"tertrerre","importance":null,"dueDate":"1994-08-29T00:00:00.000Z","done":false,"_id":"znCvsmhnOZGzlSTB","state":"DELETED"}
 {"title":"test","description":"ZTeeeee","importance":2,"dueDate":"1994-08-29","done":false,"_id":"zuRIsoOarIyuDG0z","state":"DELETED"}
+{"title":"rerer","description":"rerer","importance":2,"dueDate":"1994-08-29","done":false,"_id":"9hZDOtQWuSx3vtZY","state":"DELETED"}
+{"title":"Hund spazieren gehen","description":"Mit dem Hund spazieren gehen.","importance":1,"dueDate":"2023-06-25","done":true,"_id":"VOvHpEYddmw5HaED"}

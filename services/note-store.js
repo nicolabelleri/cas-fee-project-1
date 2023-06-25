@@ -8,7 +8,6 @@ export class NoteStore {
     }
 
     async add(title, description, importance, dueDate, done) {
-
         const note = new Note(title, description, importance, dueDate, done);
         return this.db.insert(note);
     }
@@ -31,11 +30,7 @@ export class NoteStore {
             query.done = false;
         }
 
-
         const sortQuery = order === 'desc' ? -1 : 1;
-
-        console.log(sortQuery);
-
         return this.db.find(query).sort({[sortBy]: sortQuery}).exec();
     }
 
@@ -43,12 +38,10 @@ export class NoteStore {
         return this.db.update({_id: id}, {$set: {"done": value}});
     }
 
-    // edit note
     async edit(title, description, importance, dueDate, done, id) {
         const note = new Note(title, description, importance, dueDate, done);
         return this.db.update({_id: id}, {$set: note});
     }
-
 }
 
 export const noteStore = new NoteStore();
